@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+.logo img {
+  width: 147px;
+  height: 122px;
+}
+.content h2 {
+  color: #133a5e;
+  font-family: "Lobster" !important;
+}
+.content span {
+  font-family: "Lobster" !important;
+}
+
+form .subbutton {
+  background-color: #133a5e !important;
+}
+form input {
+  background-color: #f3f6f9 !important;
+}
+.googlebtn {
+  background-color: white !important;
+  color: #133a5e;
+  border: 1px solid orange;
+}
+.googlebtn i {
+  color: orange;
+}
+.toregister a {
+  color: orange;
+}
